@@ -10,8 +10,8 @@ PyBot cannot run while loops or any script that requests user input. Any script 
 
 PyBot can be hosted using Replit by using the ```keepAlive()``` function. If you plan to host it using your own computer, remove the ```keepAlive()``` function.
 
-**Usage:**
-To write code on Discord use:
+**Usage:** <br/>
+To write code on Discord use: <br/>
 compile:
 ```
 whatever code here
