@@ -6,7 +6,7 @@ PyBot is a Discord bot that compilies code in Python!
 - Error catching: PyBot will check a script for errors and return the error as if on a normal IDE/Compiler
 - Imports: PyBot can install most imports (Any of which are pre-installed from Replit!)
 
-PyBot cannot run while loops or any script that requests user input. Any script that runs in a loop will execute and the output would be printed out instead of being printed while it's executing.
+PyBot cannot run while loops or any script that requests user input. Any script that runs in a loop will execute and the output would be printed out instead of being printed while it's executing. Also, anything that requires it to show images or windows will not work, IE: webbrowser, webdriver, turtle, tkinter, and flask.
 
 PyBot can be hosted using Replit by using the ```keepAlive()``` function. If you plan to host it using your own computer, remove the ```keepAlive()``` function.
 
